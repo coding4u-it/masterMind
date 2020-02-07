@@ -21,7 +21,7 @@ import javax.swing.event.HyperlinkEvent;
 
 /**
  *
- * @author fra
+ * @author coding4u
  */
 public class Main extends javax.swing.JFrame {
 

@@ -9,7 +9,7 @@ import java.util.Random;
 
 /**
  *
- * @author fra
+ * @author coding4u
  */
 public class Gioco {
     /* 
